@@ -1,2 +1,4 @@
 # Primazia
-Desenvolver uma base de testes
+{} azul
+{} green
+{} black
